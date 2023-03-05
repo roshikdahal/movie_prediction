@@ -6,3 +6,9 @@ create pyproject.toml
 requirements_dev.txt
 requirements.txt
 tox.ini
+init_setup.sh (install and create environment) since python is creating error we used shell script
+bash init_setup.sh
+it creates egg files of source repo in src directory
+
+create logger ""__init__.py""
+utils.py for reading yaml file
